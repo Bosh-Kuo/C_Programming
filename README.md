@@ -1,4 +1,4 @@
-# C_study
+# C_Programming
 
 It's used for storing C languge lecture notes and example codes from [C Programming by Pangfeng Liu, National Taiwan University] lecture.
 
