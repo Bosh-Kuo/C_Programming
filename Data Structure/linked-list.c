@@ -35,7 +35,7 @@ int main(void)
     for (i = 0; i < 5; i++)
         scanf("%d", &(array[i]));
     
-    // 逆著next方向加入數字，從linked list的尾端開始加入資料
+    // 逆著next方向加入數字，從linked list 的 head 端開始加入資料
     for (i = 0; i < 5; i++)
     {
         head = (ListNode *)malloc(sizeof(ListNode)); // head 指向一塊新要求的空間
